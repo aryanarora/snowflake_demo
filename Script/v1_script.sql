@@ -1,0 +1,7 @@
+USE SCHEMA DEMO;
+ALTER TABLE HELLO_WORLD
+ADD salary int;
+ALTER TABLE HELLO_WORLD
+
+
+ADD department string;
